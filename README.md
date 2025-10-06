@@ -3,7 +3,7 @@ Veridio.io - Job Application Portal
 A modern and responsive web-based application system that allows users to apply for jobs, and view dashboards for applicants and HR managers. Built with clean HTML, CSS, and JavaScript (optionally extendable with backend technologies).
 
 ---
-## 🚀 Features Implemented
+##  Features Implemented
 
 ###  Core Pages
 - **Home Panel**
@@ -21,9 +21,9 @@ A modern and responsive web-based application system that allows users to apply 
  
 ##  Tech Stack
 
-|----------------|--------------------------------------|
-| Technology     | Purpose                              |
+
+| Technology     | Purpose                              
 |----------------|--------------------------------------|
 | **HTML5**      | Markup structure of the web pages    |
 | **CSS3**       | Styling and layout of components     |
-|----------------|--------------------------------------|
+
